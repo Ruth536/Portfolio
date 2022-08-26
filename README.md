@@ -1,3 +1,3 @@
 # Portfolio
-Business web page
-HTML, CSS, JS  web page.
+Business web page created using
+HTML, CSS, Boostrap, JS  programming languages.
