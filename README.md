@@ -10,6 +10,8 @@ may execute on both the client and server computers.
 Install the web application framework for Node.js, 
 external packages included Express,.public, fs package,
 bodyParser which will return the static HTML files.
-It serves the files to web clients from the HTML page.
-Clients and web servers communicate using HTTP,
-common language betwwen web clients and web servers.
+Node.js serves the files to web clients from the HTML page.
+Clients and web servers communicate using HTTP.
+The web server reads the HTML files and returned to 
+web clients. HTTP is a common language betwwen web clients 
+and web servers.
